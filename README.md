@@ -1,5 +1,3 @@
-# Pete-Thinkful-New
-This is the updated project.
 <h1># Pete-Thinkful-New</h1>
 
 <p>This portfolio includes Pete thinkful's interests and background. 
